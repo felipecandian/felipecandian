@@ -6,7 +6,7 @@
 <div align="left">
   
    <a href="https://app.daily.dev/felipecandian">
-<img src="https://api.daily.dev/devcards/7a99a07c8e3846d3bfd5abc5c95f70b7.png?r=g5e" width="400" 
+<img src="https://api.daily.dev/devcards/7a99a07c8e3846d3bfd5abc5c95f70b7.png?r=g5e" width="350" 
       align="right" alt="Felipe Candian's Dev Card"/></a>
  
 
