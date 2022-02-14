@@ -1,34 +1,143 @@
+<!----------------- Título ----------------->
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+<h1 align="center" > ⠕ Hello World 🌎  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+
+<!-----------------Imagem ----------------->
 <div align="center">
-  <a href="https://github.com/felipecandian">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipecandian&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecandian&layout=compact&langs_count=7&theme=radical"/>
+<img width="100%" height = "250px" src="https://i.imgur.com/4XTDXO5.gif" alt="cover" />
 </div>
-<div align="left">
+
+<!--------------Nome com efeito ----------------->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá,+👋;Meu+nome+é+Jesus Felipe+;Seja+bem+vindo!;Hello,+👋;My+name+is+Jesus Felipe+;Welcome!&center=true&size=30">
+  </a>
+</h1>
+
+
+
+
+
+<h3 align='center'>Estou conectado a tecnologia desde 2001. <br>
+Sempre buscando conhecimento </h3>
+
+<div align="center">
+📫 Para entrar em contato: <a href="mailto: ola@felipecandian.com">ola@felipecandian.com</a> ou em minhas redes sociais:
+</div>
+<br>
+
+<!--------------Redes----------------->
+ <div align="center">
+ <a href="https://felipecandian.com/" target="_blank"><img src="https://img.shields.io/badge/Website-7289DA?style=for-the-badge&logo=googlechrome&logoColor=white" target="_blank">
+ <a href="https://www.linkedin.com/in/felipecandian/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+<a href="https://twitter.com/felipecandian" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-2CA5E0?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
+</a>
+<a href="https://instagram.com/felipecandian" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+</a> 
+<a href="https://github.com/felipecandian">
+<img src="https://img.shields.io/badge/-Github-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+</a>
+
+</a>  
+<a href="https://www.twitch.tv/felipecandian" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+</div>
+
+<p align='center'>
+   <a href="https://www.youtube.com/felipecandian/">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://felipecandian.medium.com">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://dribbble.com/felipecandian">
+    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
+  </a>
+  <a href="https://www.behance.net/felipecandian/">
+    <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" />
+  </a>
   
-   <a href="https://app.daily.dev/felipecandian">
-<img src="https://api.daily.dev/devcards/7a99a07c8e3846d3bfd5abc5c95f70b7.png?r=g5e" width="300" 
-      align="right" alt="Felipe Candian's Dev Card"/></a>
+  
+  
+
+
+
+
+<!--------------Sobre mim ----------------->
+<h1 align="center">⚡ Sobre mim - About me ⚡</h1>
+
+<!--------------Bio ----------------->
+
+
+## Bio
+<details>
+  <summary>Portuguese</summary>
+  
+  ## 🤩 Sobre mim :
+  
+  
+<p align="left">
+  Sou desenvolvedor, tenho conhecimentos aprofundado em Administração e Direito
+  <br>
+  <br>
+ 🎓 Bacharel em Ciência da Computação pelo Instituto Federal Sudeste de Minas Gerais;
+  <br>
+  🎓 Bacharel em Direito pela Universidade Governador Ozanam Coelho;
+  <br>
+  🎓 Bacharel em Administração pela Unicesumar;
+  <br>
+  💻 Conectado a tecnologia desde 2001, sendo que virei programador em 2011;
+  <br>
+  📚 Atualmente estou aprendendo sobre: Metaverso, NFT, Blockchain, Desenvolvimento WEB e Mobile;
+  <br>
+  💬 Ask me anything about from <a href="https://github.com/felipecandian/felipecandian/issues" title="Issues">Aqui</a>
+  <br>
+  
+</p>
+
+ - *Jesus Felipe Candian Silva - 26 anos de idade* 
+ - *Pós-graduado em Direito Digital | Bacharel em Ciência da Computação | Bacharel em Administração* 
+ - *Participante de hackathons* 
+ - *Estagiário Shawee - 2020*
+ - *Community Analytics na [Rocketseat](https://www.rocketseat.com.br/) 🚀*
+ 
+ - *Show me the code* 
+ 
  
 
-![Metrics](https://metrics.lecoq.io/felipecandian?template=classic&languages=1&achievements=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=America%2FSao_Paulo)
-  
  
+</details>
 
-<br />
+<details>
+  <summary>English</summary>
+ ## 🤩 About me :
   
+  
+<p align="left">
+  I am a developer, I have knowledge and depth in Administration
+  <br>
+  <br>
+ 🎓 Bachelor's Degree in Computer Science from the Southeast Federal Institute of Minas Gerais;
+  <br>
+  🎓 Bachelor of Laws from Universidade Governador Ozanam Coelho;
+  <br>
+  🎓 Bachelor of Business Administration from Unicesumar;
+  <br>
+  💻 Connected to technology since 2001, and I became a programmer in 2011;
+  <br>
+  📚 I am currently updating on: Metaverse, NFT, Blockchain, WEB and Mobile Development;
+  <br>
+  💬 Ask me anything about <a href="https://github.com/felipecandian/felipecandian/issues" title="Issues">Here</a>
+  <br>
+  
+</p>
+
+ - *Jesus Felipe Candian Silva - 26 years old*
+ - *Postgraduate in Digital Law | Bachelor of Computer Science | Bachelor's degree in business administration*
+ - *Hackathon participant*
+ - *Shawee Intern - 2020*
+ - *Community Analytics on [Rocketseat](https://www.rocketseat.com.br/) 🚀*
  
-
-<!--
-**felipecandian/felipecandian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - *Show me the code*
+  
+</details>
