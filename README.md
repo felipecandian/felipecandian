@@ -23,6 +23,9 @@ Sempre buscando conhecimento </h3>
 
 <div align="center">
 📫 Para entrar em contato: <a href="mailto: ola@felipecandian.com">ola@felipecandian.com</a> ou em minhas redes sociais:
+
+📓 Veja meu [currículo](https://gitconnected.com/felipecandian/resume) para mais informações.
+
 </div>
 <br>
 
@@ -68,7 +71,7 @@ Sempre buscando conhecimento </h3>
 <!--------------Bio ----------------->
 
 
-## 📖 Bio
+<div align="left">
 <details>
   <summary><img src="https://flagicons.lipis.dev/flags/4x3/br.svg" width="20px"></h1> Português - Mostrar Mais</summary>
   
@@ -78,12 +81,19 @@ Sempre buscando conhecimento </h3>
 <p align="left">
   Sou desenvolvedor, tenho conhecimentos aprofundado em Administração e Direito
   <br>
-  <br>
- 🎓 Bacharel em Ciência da Computação pelo Instituto Federal Sudeste de Minas Gerais;
-  <br>
-  🎓 Bacharel em Direito pela Universidade Governador Ozanam Coelho;
-  <br>
-  🎓 Bacharel em Administração pela Unicesumar;
+    <h3>🎓 Formação </h3>   
+
+- 📖 **Direito**\
+📆 2013 - 2017\
+📍 **Universidade Governador Ozanam Coelho** - Minas Gerais, Brasil
+                                                                                                                                     
+- 📖 **Ciência da Computação**\
+📆 2017 - 2022\
+📍 **Instituto Federal Sudeste de Minas Gerais** - Minas Gerais , Brasil                                                                                                               
+- 📖 **Administração**\
+📆 2016 - 2022\
+📍 **Unicesumar** - Minas Gerais , Brasil 
+
   <br>
   💻 Conectado a tecnologia desde 2001, sendo que virei programador em 2011;
   <br>
@@ -104,7 +114,6 @@ Sempre buscando conhecimento </h3>
  
  
 
- 
 </details>
 
 <details>
@@ -114,12 +123,19 @@ Sempre buscando conhecimento </h3>
   <p align="left">
   I am a developer, I have knowledge and law in Administration
   <br>
-  <br>
- 🎓 Bachelor's Degree in Computer Science from the Southeast Federal Institute of Minas Gerais;
-  <br>
-  🎓 Bachelor of Laws from Universidade Governador Ozanam Coelho;
-  <br>
-  🎓 Bachelor of Business Administration from Unicesumar;
+    <h3>🎓 Graduations </h3>   
+
+- 📖 **Law**\
+📆 2013 - 2017\
+📍 **Universidade Governador Ozanam Coelho** - Minas Gerais, Brasil
+                                                                                                                                     
+- 📖 **Computer Science**\
+📆 2017 - 2022\
+📍 **Instituto Federal Sudeste de Minas Gerais** - Minas Gerais , Brasil                                                                                                               
+- 📖 **Administration**\
+📆 2016 - 2022\
+📍 **Unicesumar** - Minas Gerais , Brasil 
+
   <br>
   💻 Connected to technology since 2001, and I became a programmer in 2011;
   <br>
@@ -173,3 +189,130 @@ ver contenido</summary>
  
  - *Muéstrame el código*
 </details>
+</div>
+
+
+
+<!-- Projetos e portifólio -->
+
+<h1 align="center">💻 Projetos ‍💻</h1>
+<div align="left">
+<details>
+  <summary><img src="https://flagicons.lipis.dev/flags/4x3/br.svg" width="20px"></h1> Português - Mostrar Mais</summary>
+  
+                                   
+## Experiencia
+ 
+ <img align="right" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> 
+
+ - 👨‍💻 **PHP Dev**\
+📆 2011 - Em andamento\
+📍 Brasil
+                                                                                                                                    
+ <img align="right" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> 
+
+ - 👨‍💻 **Flutter Dev**\
+📆 2018 - Em andamento\
+📍 Brasil
+                                                                                                                                    
+<img align="right" src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+ 
+- 👨‍💻 **Design**\
+📆 2011 - Em andamento\
+📍 Brasil
+                                                                                                                
+                                                                                                                                  
+<img align="right" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+   
+- 👨‍💻 **Estágio | Organização de Hackathons**\
+📆 09/2020 - 01/2021\
+📍 **Shawee** - São Paulo/SP, Brasil
+
+</details>
+
+
+
+</details> 
+<details>
+  <summary><img src="https://flagicons.lipis.dev/flags/4x3/um.svg" width="20px"></h1> English - Show me</summary>
+</details>
+<details>
+  <summary><img src="https://flagicons.lipis.dev/flags/4x3/es.svg" width="20px"> Español - 
+ver contenido</summary>
+</details>
+
+
+
+
+<h1 align="center">📈 Estatisticas ‍💻</h1>
+
+<details>  
+  <summary>📈 Profile Statistic</summary>
+<div align="center">
+  <a href="https://github.com/felipecandian">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipecandian&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecandian&layout=compact&langs_count=7&theme=radical"/>
+</div>
+<div align="left">
+  
+   <a href="https://app.daily.dev/felipecandian">
+<img src="https://api.daily.dev/devcards/7a99a07c8e3846d3bfd5abc5c95f70b7.png?r=g5e" width="300" 
+      align="right" alt="Felipe Candian's Dev Card"/></a>
+ 
+
+![Metrics](https://metrics.lecoq.io/felipecandian?template=classic&config.timezone=America%2FSao_Paulo)
+  
+ </details>  
+
+<br/>
+ 
+
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<br>
+<p align="center">
+  <code><img title="C" height="25" src="images/c.svg"></code>
+  <code><img title="C++" height="25" src="images/cpp.svg"></code>
+  <code><img title="Java" height="25" src="images/java-original.svg"></code>
+  <code><img title="PHP" height="25" src="images/php.svg"></code>
+  <code><img title="Python" height="25" src="images/python-original.svg"></code>
+</p>
+<p align="center">
+  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
+  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
+  <code><img title="CSS" height="25" src="images/css.svg"></code>
+  <code><img title="React" height="25" src="images/react-original.svg"></code>
+  <code><img title="Git" height="25" src="images/git-original.svg"></code>
+    <code><img title="GitHub" height="25" src="images/github.svg"></code>
+</p>
+<p align="center">
+  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
+  <code><img title="Unity" height="25" src="images/unity3d.svg"></code>
+  <code><img title="Android" height="25" src="images/android.svg"></code>
+  <code><img title="Flutter" height="25" src="images/android.svg"></code>
+  <code><img title="React Native" height="25" src="images/android.svg"></code>
+
+</p>
+<hr>
+
+
+<h1 align="center">👨‍💻 Repositories 👨‍💻</h1>
+<br>
+<div align="center">
+ <a href="https://github.com/felipecandian/TCC_Framework_LGPD">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=felipecandian&repo=TCC_Framework_LGPD&theme=react&hide_border=true" />
+</a>
+<a href="https://github.com/felipecandian/COVID-19">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=felipecandian&repo=COVID-19&theme=react&hide_border=true" />
+</a>
+<br>
+
+</div>
+
+<h4 align="center">
+  <a href="https://github.com/felipecandian?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
