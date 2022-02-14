@@ -58,7 +58,6 @@ Sempre buscando conhecimento </h3>
   </a>
   
   
-  
 
 
 
@@ -69,11 +68,11 @@ Sempre buscando conhecimento </h3>
 <!--------------Bio ----------------->
 
 
-## Bio
+## 📖 Bio
 <details>
-  <summary>Portuguese</summary>
+  <summary><img src="https://flagicons.lipis.dev/flags/4x3/br.svg" width="20px"></h1> Português - Mostrar Mais</summary>
   
-  ## 🤩 Sobre mim :
+  ## 🤩 Sobre mim:
   
   
 <p align="left">
@@ -109,12 +108,11 @@ Sempre buscando conhecimento </h3>
 </details>
 
 <details>
-  <summary>English</summary>
- ## 🤩 About me :
+  <summary><img src="https://flagicons.lipis.dev/flags/4x3/um.svg" width="20px"></h1> English - Show me</summary>
   
-  
-<p align="left">
-  I am a developer, I have knowledge and depth in Administration
+  ## 🤩 About me :
+  <p align="left">
+  I am a developer, I have knowledge and law in Administration
   <br>
   <br>
  🎓 Bachelor's Degree in Computer Science from the Southeast Federal Institute of Minas Gerais;
@@ -139,5 +137,39 @@ Sempre buscando conhecimento </h3>
  - *Community Analytics on [Rocketseat](https://www.rocketseat.com.br/) 🚀*
  
  - *Show me the code*
+</details>
+<details>
+  <summary><img src="https://flagicons.lipis.dev/flags/4x3/es.svg" width="20px"> Español - 
+ver contenido</summary>
   
+
+  ## 🤩 Sobre mí:
+  
+  
+<p align="left">
+  Soy programador, tengo conocimientos profundos en Administración y Derecho
+  <br>
+  <br>
+ 🎓 Licenciatura en Informática por el Instituto Federal del Sureste de Minas Gerais;
+  <br>
+  🎓 Licenciado en Derecho por la Universidade Governador Ozanam Coelho;
+  <br>
+  🎓 Licenciado en Administración de Empresas por Unicesumar;
+  <br>
+  💻 Conectado a la tecnología desde 2001, y me convertí en programador en 2011;
+  <br>
+  📚 Actualmente estoy aprendiendo sobre: ​​Metaverso, NFT, Blockchain, WEB y Desarrollo Móvil;
+  <br>
+  💬 Pregúntame cualquier cosa desde <a href="https://github.com/felipecandian/felipecandian/issues" title="Issues">Aquí</a>
+  <br>
+  
+</p>
+
+ - *Jesus Felipe Candian Silva - 26 años*
+ - *Postgrado en Derecho Digital | Licenciatura en Ciencias de la Computación | Bachiller en Administracion*
+ - *Participante del Hackathon*
+ - *Shawee Pasante - 2020*
+ - *Community Analytics en [Rocketseat](https://www.rocketseat.com.br/) 🚀*
+ 
+ - *Muéstrame el código*
 </details>
