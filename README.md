@@ -28,6 +28,10 @@ Sempre buscando conhecimento </h3>
 
 </div>
 <br>
+<p align='center'>
+   <a href="https://replit.com/@FelipeCandian">
+    <img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=Replit&logoColor=white" />
+  </a>
 
 <!--------------Redes----------------->
  <div align="center">
