@@ -7,14 +7,14 @@
 <img width="100%" height = "250px" src="https://i.imgur.com/4XTDXO5.gif" alt="cover" />
 </div>
 
-<!--------------Nome com efeito ----------------->
+<!--------------Nome com efeito ------------
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá,+👋;Meu+nome+é+Jesus Felipe+;Seja+bem+vindo!;Hello,+👋;My+name+is+Jesus Felipe+;Welcome!&center=true&size=30">
   </a>
 </h1>
-
-
+--------->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=6000&lines=%F0%9F%91%8B+Ol%C3%A1%2C+meu+nome+%C3%A9+Jesus+Felipe;Seja+bem-vindo!!!;%F0%9F%91%8B+Hello%2C+my+name+is+Jesus+Felipe;Welcome+!!!)](https://git.io/typing-svg)
 
 
 
