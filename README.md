@@ -1,5 +1,16 @@
 <!----------------- Título ----------------->
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=felipecandian.felipecandian">
+
+
+<p align="center">
+  <a href="https://rocketseat.com.br">
+    <img alt="Rocketseat 💜" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1">
+  </a>
+  <a>
+  <img alt="License" src="https://img.shields.io/github/license/vitorserrano/ecoleta?color=%237519C1">
+  <br><br>
+</p>
+  
 <h1 align="center" > ⠕ Hello World 🌎  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 <!-----------------Imagem ----------------->
