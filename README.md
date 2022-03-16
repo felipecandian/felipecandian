@@ -29,7 +29,7 @@
 
 
 
-<h3 align='center'>Estou conectado a tecnologia desde 2001. <br>
+<h3 align='center'>Estou conectado a tecnologia desde 2002. <br>
 Sempre buscando conhecimento </h3>
 
 <div align="center">
