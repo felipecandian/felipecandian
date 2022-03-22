@@ -78,7 +78,7 @@ Sempre buscando conhecimento </h3>
   
 
 
-
+---
 
 <!--------------Sobre mim ----------------->
 <h1 align="center">⚡ Sobre mim - About me ⚡</h1>
@@ -285,6 +285,7 @@ ver contenido</summary>
 
 <br/>
  
+ ---
 
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
