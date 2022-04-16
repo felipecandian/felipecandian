@@ -40,6 +40,8 @@ Sempre buscando conhecimento </h3>
 </div>
 <br>
 <h3 align='center'>Minhas principais redes sociais <br>
+  <br>
+  <br>
 <p align='center'>
   <a href="https://www.linkedin.com/in/felipecandian/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
