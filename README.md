@@ -359,7 +359,7 @@ ver contenido</summary>
 </p>
 -->
 <hr>
-
+<!------
 
 <h1 align="center">👨‍💻 Repositories 👨‍💻</h1>
 <br>
@@ -373,7 +373,7 @@ ver contenido</summary>
 <br>
 
 </div>
-
+-->
 <h4 align="center">
   <a href="https://github.com/felipecandian?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
