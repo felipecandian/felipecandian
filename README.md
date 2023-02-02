@@ -359,21 +359,37 @@ ver contenido</summary>
 </p>
 -->
 <hr>
-<!------
+
 
 <h1 align="center">👨‍💻 Repositories 👨‍💻</h1>
-<br>
+
 <div align="center">
- <a href="https://github.com/felipecandian/TCC_Framework_LGPD">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=felipecandian&repo=TCC_Framework_LGPD&theme=react&hide_border=true" />
-</a>
-<a href="https://github.com/felipecandian/COVID-19">
+ <a href="https://github.com/felipecandian/COVID-19">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=felipecandian&repo=COVID-19&theme=react&hide_border=true" />
 </a>
 <br>
 
 </div>
--->
+
+<p align="left">
+  <a href="https://github.com/felipecandian/Rocketseat-NLW-Booster-Ecoleta">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=felipecandian&repo=Rocketseat-NLW-Booster-Ecoleta&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Rocketseat-NLW-Booster-Ecoleta">
+  </a>
+  <a href="https://github.com/felipecandian/TCC-FRAMEWORK-LGPD">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=felipecandian&repo=TCC-FRAMEWORK-LGPD&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="TCC-FRAMEWORK-LGPD">
+  </a>
+  <a href="https://github.com/felipecandian/IFSEMG-EMCOMP-ProjetoMaosDadas">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=felipecandian&repo=IFSEMG-EMCOMP-ProjetoMaosDadas&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="IFSEMG-EMCOMP-ProjetoMaosDada">
+  </a>
+  <a href="https://github.com/felipecandian/IFSEMG-ComputacaoGrafica">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=felipecandian&repo=IFSEMG-ComputacaoGrafica&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="IFSEMG-ComputacaoGrafica">
+  </a>
+  <a href="https://github.com/felipecandian/IFSEMG-ModelagemDeSoftware">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=felipecandian&repo=IFSEMG-ModelagemDeSoftware&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="IFSEMG-ModelagemDeSoftware">
+  <a href="https://github.com/felipecandian/IFSEMG-Java-OO-Consultorio_Dentista">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=felipecandian&repo=IFSEMG-Java-OO-Consultorio_Dentista&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="IFSEMG-Java-OO-Consultorio_Dentista">
+  </a>
+</p>
 <h4 align="center">
-  <a href="https://github.com/felipecandian?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/felipecandian?tab=repositories" title="Show Repositories">🔎 Show More all Repos 🔍</a>
 </h4>
