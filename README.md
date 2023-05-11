@@ -28,8 +28,6 @@
 --------->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=6000&lines=%F0%9F%91%8B+Ol%C3%A1%2C+meu+nome+%C3%A9+Jesus+Felipe;Seja+bem-vindo!!!;%F0%9F%91%8B+Hello%2C+my+name+is+Jesus+Felipe;Welcome+!!!)](https://git.io/typing-svg)
 
-
-
 <h3 align='center'>Estou conectado a tecnologia desde 2002. <br>
 Sempre buscando conhecimento </h3>
 
