@@ -32,7 +32,7 @@
 Sempre buscando conhecimento </h3>
 
 <div align="center">
-📫 Para entrar em contato: <a href="mailto: ola@felipecandian.com">ola@felipecandian.com</a> ou em minhas redes sociais:
+📫 Para entrar em contato: <a href="mailto: felipe.candian@hotmail.com">felipe.candian@hotmail.com</a> ou em minhas redes sociais:
 
 📓 Veja meu [currículo](https://gitconnected.com/felipecandian/resume) para mais informações.
 
